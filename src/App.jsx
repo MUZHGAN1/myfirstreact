@@ -31,6 +31,7 @@ const changecounter = () =>{
      <Greeting name="Muzhgan"city="München"/>
      <Greeting name="Mina"city="Hamburg"/>
      <Greeting name="Alex"city="Berlin"/>
+     <Greeting name="Ali"city="Bunn"/>
     
      
      <button onClick= {changecounter}>Increase</button>
